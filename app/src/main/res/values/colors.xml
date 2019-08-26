@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A1C91B97</color>
+    <color name="colorPrimaryDark">#830A32</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="numerColor">#0D60E0</color>
+    <color name="familyColor">#DF6409</color>
+    <color name="colorColor">#8B0FBE</color>
+    <color name="phresesColor">#E40A82</color>
+
+
+</resources>

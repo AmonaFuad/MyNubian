@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyNubian</string>
+    <string name="number_activity">Numbers</string>
+    <string name="family_activity">Family Members</string>
+    <string name="color_activity">Colors</string>
+    <string name="phreses_activity">phrases</string>
+    <string name="number_one">One</string>
+    <string name="number_two">tow</string>
+    <string name="number_three">three</string>
+    <string name="number_four">four</string>
+    <string name="number_five">five</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">seven</string>
+    <string name="number_eight">eight</string>
+    <string name="number_nine">nine</string>
+    <string name="number_ten">ten</string>
+    <string name="fhather_name">fhather</string>
+    <string name="mother_name">mother</string>
+    <string name="older_brother">older brother</string>
+    <string name="older_sister">older sister</string>
+    <string name="younger_brother">Younger brother </string>
+    <string name="younger_sister">Younger sister </string>
+    <string name="grand_father">grand father </string>
+    <string name="grand_mother">grand mother </string>
+    <string name="son">son </string>
+    <string name="daughter"> daughter </string>
+    <string name="color_whit"> whit </string>
+    <string name="color_red"> red </string>
+    <string name="color_yellow">yellow </string>
+    <string name="color_orange"> orange </string>
+    <string name="color_tan"> tan </string>
+    <string name="color_gray"> gray </string>
+    <string name="color_green"> green </string>
+    <string name="color_black">black</string>
+    <string name="phrase1">How are you feeling?</string>
+    <string name="phrase2">hello</string>
+    <string name="phrase3">What is your name?</string>
+    <string name="phrase4">My name is ...</string>
+    <string name="phrase5">Are you coming?</string>
+    <string name="phrase6">Yes I am coming</string>
+    <string name="phrase7">let us go</string>
+    <string name="phrase8">Com here.</string>
+    <string name="phrase9">Give me water please.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
